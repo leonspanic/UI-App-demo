@@ -1,0 +1,7 @@
+<apex:page showHeader="true" standardStylesheets="false">
+
+    <div id="root"></div>
+
+    <script type="text/javascript" src="{! $Resource.UIAppJS}"/>
+
+</apex:page>
